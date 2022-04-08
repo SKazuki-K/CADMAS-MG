@@ -1,10 +1,10 @@
-# CADMAS-MG
+# CADMAS-SURF/3D-MG
 
 ## Descriptions:  
  "ver4.9.4_20180216" :first commit
 
 
-## To compile the program:
+## How to Compile:
  1. Type `unzip CADMAS-MG-master.zip -d CADMAS-MG-master`
  2. Type `cd  CADMAS-MG-master`
  3. Edit "Makefile" according to your calculation environment.
