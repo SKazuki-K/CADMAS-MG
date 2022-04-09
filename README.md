@@ -1,7 +1,7 @@
 # CADMAS-SURF/3D-MG
 
 ## Versions:  
- 20220409(First commit)："ver4.9.4_20180216"
+ 2022/04/09(First commit)："ver4.9.4_20180216"
 
 
 ## How to Compile:
